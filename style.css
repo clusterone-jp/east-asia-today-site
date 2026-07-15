@@ -1,0 +1,109 @@
+:root {
+  --navy: #1a3d6d;
+  --text: #222;
+  --muted: #666;
+  --border: #d8e0e8;
+  --bg-alt: #f7f9fb;
+  --max-width: 840px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", "Meiryo", sans-serif;
+  color: var(--text);
+  line-height: 1.8;
+  margin: 0;
+  background: #fff;
+}
+
+header.site-header {
+  border-bottom: 3px solid var(--navy);
+  padding: 20px 24px;
+}
+
+header.site-header .brand {
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--navy);
+  text-decoration: none;
+}
+
+header.site-header .brand .en {
+  font-size: 13px;
+  font-weight: normal;
+  color: var(--muted);
+  display: block;
+}
+
+nav.site-nav {
+  margin-top: 10px;
+}
+
+nav.site-nav a {
+  margin-right: 18px;
+  color: var(--navy);
+  text-decoration: none;
+  font-size: 14px;
+}
+
+nav.site-nav a:hover { text-decoration: underline; }
+
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 32px 24px 80px;
+}
+
+h1 { font-size: 22px; color: var(--navy); }
+h2 { font-size: 17px; color: var(--navy); border-bottom: 1px solid var(--border); padding-bottom: 6px; margin-top: 32px; }
+
+.lede {
+  background: var(--bg-alt);
+  border-left: 4px solid var(--navy);
+  padding: 14px 18px;
+  font-size: 15px;
+  margin: 20px 0 32px;
+}
+
+.notice-empty {
+  color: var(--muted);
+  border: 1px dashed var(--border);
+  padding: 24px;
+  text-align: center;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+footer.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 24px;
+  color: var(--muted);
+  font-size: 12px;
+  text-align: center;
+}
+
+footer.site-footer a { color: var(--muted); }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 16px 0;
+  font-size: 14px;
+}
+
+th, td {
+  border: 1px solid var(--border);
+  padding: 8px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: var(--bg-alt);
+  width: 30%;
+  white-space: nowrap;
+}
+
+ol, ul { padding-left: 22px; }
+li { margin-bottom: 6px; }
