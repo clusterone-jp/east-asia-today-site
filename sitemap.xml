@@ -77,6 +77,30 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://east-asia-today.github.io/articles/taiwan-export-h1-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/malaysia-gdp-forecast-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/china-ai-regulation-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/korea-birthrate-2025.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://east-asia-today.github.io/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
