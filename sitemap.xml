@@ -17,6 +17,42 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://east-asia-today.github.io/articles/taiwan-imd-competitiveness-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/japan-korea-summit-202601.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/china-economic-policy-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/asean-defa-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/korea-semiconductor-investment-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/taiwan-tsmc-investment-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://east-asia-today.github.io/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
