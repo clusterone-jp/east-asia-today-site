@@ -303,6 +303,55 @@ th {
 }
 
 /* ==========================================================================
+   特集記事（トップページ）
+   ========================================================================== */
+
+.featured-card {
+  background: var(--white);
+  border: 1px solid var(--gray-200);
+  border-top: 4px solid var(--accent);
+  padding: 28px 30px;
+  display: block;
+  color: inherit;
+  margin-bottom: 28px;
+}
+.featured-card:hover { border-color: var(--ink-2); border-top-color: var(--accent); text-decoration: none; }
+.featured-card .featured-label {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--white);
+  background: var(--accent);
+  padding: 4px 10px;
+  margin-bottom: 12px;
+}
+.featured-card .tag {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  background: var(--accent-bg);
+  padding: 3px 9px;
+  margin: 0 0 12px 8px;
+}
+.featured-card h2 {
+  font-family: var(--font-serif);
+  border: none;
+  margin: 0 0 10px;
+  padding: 0;
+  font-size: 26px;
+  color: var(--ink);
+  line-height: 1.5;
+}
+.featured-card .excerpt {
+  font-size: 15px;
+  color: var(--gray-700);
+  margin: 0;
+}
+
+/* ==========================================================================
    記事カード（記事一覧）
    ========================================================================== */
 
